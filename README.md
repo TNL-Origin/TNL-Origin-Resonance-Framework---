@@ -22,7 +22,7 @@ TNL.Origin is a modular framework for modeling harmonic resonance systems in spe
 - Narrative architecture in speculative fiction or TTRPGs  
 
 
-##Repo Structure
+## Repo Structure
 
 Breakdown of `src/`, `docs/`, `simulations/`, `assets/`, etc.
 
